@@ -1,0 +1,9 @@
+config
+controllers
+middleware
+models
+node_modules
+routes
+uploads
+eng.*
+.env
